@@ -11,7 +11,7 @@
 <center>
 <body>
                   <p>
-                  <font size="90" face="snap ITC"colour="blue">
+                  <font size="72" face="snap ITC"colour="blue">
                    BestEssaysWorld.com
                  </font></p>
                  <p>
